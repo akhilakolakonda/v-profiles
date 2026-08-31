@@ -205,9 +205,9 @@
  		            </execution>
  		        </executions>
  		</plugin>
-			<plugins>
-			</build>
-        <distributionManagement>
+		</plugins>
+	</build>
+	<distributionManagement>
 <repository>
 <id>releases</id>
 <url>http://13.235.45.169:8081/repository/maven-releases</url>
